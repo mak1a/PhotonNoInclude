@@ -242,7 +242,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PhotonClasses.hpp" />
-    <ClInclude Include="PhotonSDK.hpp" />
     <ClInclude Include="SivPhoton.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

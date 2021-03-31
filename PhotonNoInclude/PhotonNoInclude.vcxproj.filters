@@ -382,9 +382,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PhotonSDK.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="SivPhoton.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
